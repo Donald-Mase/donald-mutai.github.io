@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <Footer data={this.state.resumeData.main} />
     </div>
   );
 }
