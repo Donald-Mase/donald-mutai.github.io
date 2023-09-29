@@ -1,0 +1,155 @@
+{
+  "main": {
+    "name":"Donald Mutai",
+    "description":"Greetings and welcome! I'm an experienced technician with an unwavering commitment to continuous learning alongside an enthusiasm in application of innovative concepts.",
+    "image":"profilepic.jpg",
+    "bio":" Aspiring Data Analyst and Scientist on a journey of continuous growth. With a background in statistics, I'm passionate about extracting meaningful insights from data to tackle real-world challenges. I'm dedicated to an ever-evolving pursuit of mastering new techniques for leveraging data in decision-making.\n\nBeyond the data world, you'll often find me passionately following my favorite sports teams, finding inspiration in their dedication and teamwork. My guiding principle is that offering solutions can be just as rewarding, if not more so, than identifying problems.\n\nI'm thrilled by my ambition to evolve into a full-stack Data Scientist, bridging the gap between data collection and transformative insights. Let's connect and exchange experiences!  ",
+    "contactmessage":"Feel free to contact me.",
+    "email": "donald-kipruto@proton.me",
+    "phone": "+254 714 996 409",
+    "github":"https://github.com/Donald-Mase",
+    "project":"https://www.kaggle.com/code/stephdon",
+    "address":{
+      "street":"(Ngong' Road)",
+      "city":"(Nairobi)",
+      "state":"(Kenya)",
+      "zip": "(25089 -00100)"
+    },
+    "website": "https://medium.com/@donald-kipruto",
+    "resumedownload":"https://1drv.ms/w/s!AtcWVm4OqMilg0DURcy8B0wETQ-A?e=NXAoH6",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/donald-mutai-242921274",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Donald-Mase",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Synergizing technical abilities encompassing data digestion, advanced analytics and impactful visualization.",
+    "education":[
+      {
+        "school":"Egerton University?",
+        "degree":"Bsc Statistics",
+        "graduated":"October 2023",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"Dataquest",
+        "degree":"Python for Datascience",
+        "graduated":"In session",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Kenya Medical Research Institute",
+        "title":"Trainee ",
+        "years":"August 2019",
+        "description":"Accepted for a brief research program that includes evaluation. Worked with specialists to organise research records and manage data. \n\nAchievements: \n\nDeveloped Questionnaires and Online Survey Forms  \n\nData collection  \n\nData cleaning and creating backups \n\nProper sorting of manual records \n\nData analysis and visualisation  ."
+      },
+      {
+        "company":"Kenya National Bureau of Statistics",
+        "title":"Data Collection",
+        "years":"2020",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Online Freelance",
+        "title":"Technical Researcher",
+        "years":"2019 -2023",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"SQL",
+        "level":"65%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"HTML CSS",
+        "level":"70%"
+      },
+      {
+        "name":"Django",
+        "level":"65%"
+      },
+      {
+        "name":"Data Analysis and Visualization",
+        "level":"70%"
+      },
+      {
+        "name":"Data Collection and Preparation",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Water Potability Project",
+        "category":"Analysis and Visualization",
+        "image":"AV1.png",
+        "url":"https://www.kaggle.com/code/stephdon/water-analysis"
+      },
+      {
+        "title":"Data Visualization with Python Chloropeth Maps",
+        "category":"Visualization ",
+        "image":"V1.png",
+        "url":"https://medium.com/@donald-kipruto/transmigration-on-chloropleth-map-9a208652bb7e"
+      },
+      {
+        "title":"Food Market Time Series Analysis",
+        "category":"Time Series Analysis and Visualization",
+        "image":"A1.png",
+        "url":"https://medium.com/@donald-kipruto/time-series-analysis-food-prices-96df37b4933b"
+      },
+      {
+        "title":"ML Water Potability project using Django ",
+        "category":"Machine Learning with Django",
+        "image":"04.jpg",
+        "url":"https://github.com/Donald-Mase/Water-Analysis"
+      },
+      {
+        "title":"Bloodgroup Program",
+        "category":"Python.",
+        "image":"05.jpg",
+        "url":"https://github.com/Donald-Mase/BloodG"
+      },
+      {
+        "title":"Audio Visualization",
+        "category":"Visualization",
+        "image":"06.jpg",
+        "url":"https://medium.com/@donald-kipruto/audio-visualization-42b9050d41e1"
+      }
+    ]
+  }
+}
